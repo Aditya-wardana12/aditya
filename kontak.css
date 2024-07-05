@@ -1,0 +1,16 @@
+.kontak{
+   text-align: center;
+    background-color: rgb(125, 125, 228);
+
+}
+body {
+    background-color: rgb(105, 172, 231);
+}
+.footer
+    {
+        background-color: rgb(54, 54, 220);
+        text-align: center;
+        padding: 10px ;
+        width: 100%;
+
+    }
